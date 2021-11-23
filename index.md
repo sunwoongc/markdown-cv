@@ -5,7 +5,7 @@ title: CV - SunwoongChoi
 # Sunwoong Choi
 
 <div id="webaddress">
-<a href="mailto: sunwoongchoi810@gmail.com">E-MAIL</a>
+<a href="mailto:sunwoongchoi810@gmail.com">E-MAIL</a>
 | <a href="https://github.com/sunwoongc">GITHUB</a>
 | <a href="https://www.linkedin.com/in/sunwoongchoi810/">LINKEDIN</a>  
 </div>
@@ -17,7 +17,7 @@ Studying at AIFFEL AI School (Gangnam)
 
 ### Recently interested in
 [The Role of Mathematical Reasoning in General Artificial Intelligence](https://mathai-iclr.github.io/
-안녕안녕 나는 지수야.
+
 
 
 ### Research interests
@@ -28,10 +28,9 @@ Mathematics
 ## Education
 
 `2019 - 2021`
-__Master's Degree, Dongguk University, Applied Mathematics__
-
+__동국대학교 응용수학전공 석사과정__ *최종학점: 4.5 / 4.5*
 `2012 - 2019`
-__Bachelor's Degree, Dongguk University, Mathematics__
+__동국대학교 수학과 학사과정__ *최종학점: 3.54 / 4.5*
 
 
 ## Awards
