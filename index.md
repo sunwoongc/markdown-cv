@@ -1,22 +1,22 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV - SunwoongChoi
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Sunwoong Choi
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="sunwoongchoi810@gmail.com">E-MAIL</a>
+| <a href="https://github.com/sunwoongc">GITHUB</a>
+| <a href="https://www.linkedin.com/in/sunwoongchoi810/">LINKEDIN</a>  
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying at AIFFEL AI School (Gangnam)
 
-### Specialized in
-
+### Recently interested in
+[The Role of Mathematical Reasoning in General Artificial Intelligence]()
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
