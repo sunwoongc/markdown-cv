@@ -16,8 +16,8 @@ title: CV - SunwoongChoi
 Studying at AIFFEL AI School (Gangnam)
 
 ### Recently interested in
-[The Role of Mathematical Reasoning in General Artificial Intelligence](https://mathai-iclr.github.io/)
-
+[The Role of Mathematical Reasoning in General Artificial Intelligence](https://mathai-iclr.github.io/
+안녕안녕 나는 지수야.
 
 
 ### Research interests
