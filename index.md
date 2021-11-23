@@ -16,38 +16,27 @@ title: CV - SunwoongChoi
 Studying at AIFFEL AI School (Gangnam)
 
 ### Recently interested in
-[The Role of Mathematical Reasoning in General Artificial Intelligence]()
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+[The Role of Mathematical Reasoning in General Artificial Intelligence](https://mathai-iclr.github.io/)
+
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Mathematics
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019-2021`
+__Master's Degree, Dongguk University, Applied Mathematics__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2012 - 2019`
+__Bachelor's Degree, Dongguk University, Mathematics__
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+NOT YET
 
 
 
