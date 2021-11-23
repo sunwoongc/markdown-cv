@@ -5,7 +5,7 @@ title: CV - SunwoongChoi
 # Sunwoong Choi
 
 <div id="webaddress">
-<a href="sunwoongchoi810@gmail.com">E-MAIL</a>
+<a href="mailto: sunwoongchoi810@gmail.com">E-MAIL</a>
 | <a href="https://github.com/sunwoongc">GITHUB</a>
 | <a href="https://www.linkedin.com/in/sunwoongchoi810/">LINKEDIN</a>  
 </div>
@@ -27,7 +27,7 @@ Mathematics
 
 ## Education
 
-`2019-2021`
+`2019 - 2021`
 __Master's Degree, Dongguk University, Applied Mathematics__
 
 `2012 - 2019`
