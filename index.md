@@ -40,20 +40,25 @@ __동국대학교 수학과 학사과정__
 
 ## Projects
 
-* \[COMPAS\] 수원시 치안 빅데이터 시각화 및 아이디어 공모전(2021. 10) [link]()
+* __\[COMPAS\] 수원시 치안 빅데이터 시각화 및 아이디어 공모전(2021. 10) [link]()__
   * Role: EDA(Python), 시각화(Tableau)
   * Pandas, Matplotlib, Seaborn, Folium 등의 Python 라이브러리를 통한 분석과 이에 대한 결과물을 Tableau로 시각화하는 일을 맡았습니다.
   * 결과: 예선탈락
 
-* AIFFEL x SOCAR Hackerthon: 수요지리분석(Ongoing)
+* __\[AIFFEL x SOCAR Hackerthon\]: 수요지리분석(Ongoing)__
   * Role: 팀장, ML Modeling(Scikit-learn)
+
   * 전반적인 프로젝트의 방향성을 위해 일정관리, 의견조율등을 맡아서 진행하고 있습니다.
+
   * 수요예측을 위해 XGBoost등의 트리기반 모델, KNN을 통한 Clustering 등으로 문제를 해결하려고 노력중입니다.
+
   * 결과: TBD
 
-* \[DACON\] 주식 종료 가격 예측 경진대회(Ongoing) [link](https://dacon.io/competitions/official/235857/overview/description)
+* __\[DACON\] 주식 종료 가격 예측 경진대회(Ongoing) [link](https://dacon.io/competitions/official/235857/overview/description)__
   * Role: ML Modeling(Scikit-learn), DL Modeling(TensorFlow)
+
   * XGBoost의 파라미터를 Optuna로 튜닝하며 성능을 개선시키려고 노력중입니다. 
+
   * 결과: TBD
  
 ## Researchs
@@ -65,7 +70,9 @@ __동국대학교 수학과 학사과정__
 
 `Python`
 - Proficiency Reference: Silver1 at [BOJ](https://solved.ac/profile/creagravity)
+
 - Data Framework: NumPy, Pandas
+
 - ML/DL Framework: Scikit-learn, TensorFlow, PyTorch
 
 `Visualization`
@@ -74,7 +81,10 @@ __동국대학교 수학과 학사과정__
 
 ## Licenses & Certifications
 
+`Programming`
 - \[Udacity\] AI Programming with Python Nanodegree
+
+`Language`
 - \[Opic\] AL(Advanced Low)
 
 ## Occupation
