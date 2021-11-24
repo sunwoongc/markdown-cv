@@ -40,12 +40,12 @@ __동국대학교 수학과 학사과정__
 
 ## Projects
 
-__\[COMPAS\] 수원시 치안 빅데이터 시각화 및 아이디어 공모전(2021. 10) [link]()__
+__\[COMPAS\] 수원시 치안 빅데이터 시각화 및 아이디어 공모전(2021. 10) [link](https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2109_001)__
 * Role: EDA(Python), 시각화(Tableau)
 * Pandas, Matplotlib, Seaborn, Folium 등의 Python 라이브러리를 통한 분석과 이에 대한 결과물을 Tableau로 시각화하는 일을 맡았습니다.
 * 결과: 예선탈락
 
-__\[AIFFEL x SOCAR Hackerthon\]: 수요지리분석(Ongoing)__
+__\[AIFFEL x SOCAR Hackerthon\] 수요지리분석(Ongoing)__
 * Role: 팀장, ML Modeling(Scikit-learn)
 * 전반적인 프로젝트의 방향성을 위해 일정관리, 의견조율등을 맡아서 진행하고 있습니다.
 * 수요예측을 위해 XGBoost등의 트리기반 모델, KNN을 통한 Clustering 등으로 문제를 해결하려고 노력중입니다.
