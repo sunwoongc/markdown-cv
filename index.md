@@ -7,7 +7,9 @@ title: CV - SunwoongChoi
 <div id="webaddress">
 <a href="mailto:sunwoongchoi810@gmail.com">sunwoongchoi810@gmail.com</a>
 | <a href="https://github.com/sunwoongc">GITHUB</a>
-| <a href="https://www.linkedin.com/in/sunwoongchoi810/">LINKEDIN</a>  
+| <a href="https://www.linkedin.com/in/sunwoongchoi810/">LINKEDIN</a>
+| CONTACT: 010-6748-6226
+| ADDRESS: 서울시 용산구
 </div>
 
 
@@ -15,35 +17,28 @@ title: CV - SunwoongChoi
 
 AIFFEL 강남 캠퍼스 2기 교육생
 
-<!-- ### Recently interested in
+### Recently interested in [간단한 자기소개]
 
 - [The Role of Mathematical Reasoning in General Artificial Intelligence](https://mathai-iclr.github.io/)
 - Reinforcement Learning, Self-Supervised Learning 
 
 ### Research interests
 
- -->
-
 
 ## Education
 
-`2019-2021`
+`2019. 03 - 2021. 02`
 __동국대학교 응용수학전공 석사과정__ 
 * 최종학점: 4.5 / 4.5
 * 지도교수: 권기운, 조덕빈
 * 졸업논문: ReLU DNN 으로의 선형 FEM 그리고 ResNet의 안정성 분석
 
-`2012-2019`
+`2012. 03 - 2019. 02`
 __동국대학교 수학과 학사과정__ 
 * 최종학점: 3.54 / 4.5
 
 
 ## Projects
-
-__\[COMPAS\] 수원시 치안 빅데이터 시각화 및 아이디어 공모전(2021. 10) [link](https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2109_001)__
-* Role: EDA(Python), 시각화(Tableau)
-* Pandas, Matplotlib, Seaborn, Folium 등의 Python 라이브러리를 통한 분석과 이에 대한 결과물을 Tableau로 시각화하는 일을 맡았습니다.
-* 결과: 예선탈락
 
 __\[AIFFEL x SOCAR Hackerthon\] 수요지리분석(Ongoing)__
 * Role: 팀장, ML Modeling(Scikit-learn)
@@ -51,10 +46,17 @@ __\[AIFFEL x SOCAR Hackerthon\] 수요지리분석(Ongoing)__
 * 수요예측을 위해 XGBoost등의 트리기반 모델, KNN을 통한 Clustering 등으로 문제를 해결하려고 노력중입니다.
 * 결과: TBD
 
+`2021. 11 - 2021. 12 (1개월)`
 __\[DACON\] 주식 종료 가격 예측 경진대회(Ongoing) [link](https://dacon.io/competitions/official/235857/overview/description)__
 * Role: ML Modeling(Scikit-learn), DL Modeling(TensorFlow)
 * XGBoost의 파라미터를 Optuna로 튜닝하며 성능을 개선시키려고 노력중입니다. 
 * 결과: TBD
+
+`2021. 9 - 2021. 10 (1개월)`
+__\[COMPAS\] 수원시 치안 빅데이터 시각화 및 아이디어 공모전(2021. 10) [link](https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2109_001)__
+* Role: EDA(Python), 시각화(Tableau)
+* Pandas, Matplotlib, Seaborn, Folium 등의 Python 라이브러리를 통한 분석과 이에 대한 결과물을 Tableau로 시각화하는 일을 맡았습니다.
+* 결과: 예선탈락
  
 ## Researchs
 
@@ -65,7 +67,7 @@ __Graduate Thesis: ReLU DNN 으로의 선형 FEM 그리고 ResNet의 안정성 �
 
 `Python`
 - Proficiency Reference: Silver1 at [BOJ](https://solved.ac/profile/creagravity)
-- Data Framework: NumPy, Pandas
+- DataScience Framework: NumPy, Pandas
 - ML/DL Framework: Scikit-learn, TensorFlow, PyTorch
 
 `Visualization`
@@ -83,7 +85,7 @@ __Graduate Thesis: ReLU DNN 으로의 선형 FEM 그리고 ResNet의 안정성 �
 ## Occupation
 
 `2019-2021`
-__Teaching Assistant__, Dongguk University
+__Teaching Assistant__(교육조교), Dongguk University
 
 
 <!-- ### Footer
