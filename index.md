@@ -47,12 +47,14 @@ __\[AIFFEL x SOCAR Hackerthon\] 수요지리분석__
 * 결과: TBD
 
 `2021. 11 - 2021. 12`
+`(1개월)`
 __\[DACON\] 주식 종료 가격 예측 경진대회 [link](https://dacon.io/competitions/official/235857/overview/description)__
 * Role: ML Modeling(Scikit-learn), DL Modeling(TensorFlow)
 * XGBoost의 파라미터를 Optuna로 튜닝하며 성능을 개선시키려고 노력중입니다. 
 * 결과: TBD
 
 `2021. 9 - 2021. 10`
+`(1개월)`
 __\[COMPAS\] 수원시 치안 빅데이터 시각화 및 아이디어 공모전 [link](https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2109_001)__
 * Role: EDA(Python), 시각화(Tableau)
 * Pandas, Matplotlib, Seaborn, Folium 등의 Python 라이브러리를 통한 분석과 이에 대한 결과물을 Tableau로 시각화하는 일을 맡았습니다.
