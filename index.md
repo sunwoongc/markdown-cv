@@ -17,12 +17,13 @@ title: CV - SunwoongChoi
 
 AIFFEL 강남 캠퍼스 2기 교육생
 
-### Recently interested in [간단한 자기소개]
+### Introduction
 
-- [The Role of Mathematical Reasoning in General Artificial Intelligence](https://mathai-iclr.github.io/)
-- Reinforcement Learning, Self-Supervised Learning 
+동국대학교에서 응용수학과 전공으로 석사를 시작하며, 인공지능 공부를 시작하게 됐고 현재는 AIFFEL 강남 캠퍼스에서 교육을 받고 있습니다. 인공지능의 다양한 분야에 관심이 많으며 특히 수학적으로 이해하고 분석하는 것을 좋아합니다. 최근에는 Self-Supervised Learning, Reinforcement Learning 등 학습 알고리즘 자체에 관심이 많아 공부를 하고 있습니다. 
 
-### Research interests
+인공지능 분야는 무엇보다 계속 공부를 하고 발전할 수 있는 분야이기에 매력을 느끼고 있습니다. 또한 다양한 커뮤니티에서 여러 의견을 나누며 발전할 수 있는 분야라 더욱 재미를 느끼고 몰두하고 있습니다.
+
+잘 학습하고, 잘 설명할 수 있는 모델을 만들 수 있는 인공지능 개발자가 되는 것이 목표입니다.
 
 
 ## Education
