@@ -56,7 +56,17 @@ __\[COMPAS\] 수원시 치안 빅데이터 시각화 및 아이디어 공모전 
 * Role: EDA(Python), 시각화(Tableau)
 * Pandas, Matplotlib, Seaborn, Folium 등의 Python 라이브러리를 통한 분석과 이에 대한 결과물을 Tableau로 시각화하는 일을 맡았습니다.
 * 결과: 예선탈락
- 
+
+### Toy Projects
+`AIFFEL`
+__\[E-15\] Making_chatbot_with_transformer [link](https://github.com/sunwoongc/aiffel_02_gn/blob/master/Exploration/%5BE-15%5DMaking_chatbot_with_transformer.ipynb)__
+* Transformer를 이용해 아주 간단한 챗봇을 만들어봤습니다.
+
+`AIFFEL`
+__\[E-17\] BERT_QNA [link](https://github.com/sunwoongc/aiffel_02_gn/blob/master/Exploration/%5BE_17%5DBERT_QNA.ipynb)__
+* BERT를 이용해 퀴즈의 정답을 맞추는 모델을 만들어봤습니다.
+
+
 ## Researchs
 
 __Graduate Thesis: ReLU DNN 으로의 선형 FEM 그리고 ResNet의 안정성 분석(ReLU DNN as Linear FEM and stability analysis of ResNet)__
@@ -82,10 +92,22 @@ __Graduate Thesis: ReLU DNN 으로의 선형 FEM 그리고 ResNet의 안정성 �
 `Language`
 - \[Opic\] AL(Advanced Low) - Expired Jan 2021
 
-## Occupation
+## Occupation & Extracurricular Activity
 
 `2019.02-2020.12`
 __Teaching Assistant__(교육조교), Dongguk University
+
+`2021.08-2021.11`
+__Study Group member__(자연어처리 스터디 집현전 Beginner단계 멤버), 집현전 2기(https://github.com/jiphyeonjeon/season2)
+
+`2022.01-2022.03`
+__Study Group member__(GNN+RecSys 풀잎스쿨 멤버), GNN+RecSys 풀잎스쿨(https://www.notion.so/modulabs/GNN-based-Recommender-Systems-e828fd8c294543c894f587a39567a260)
+
+`2022.01-`
+__Study Group member__(WSSS 풀잎스쿨 멤버), WSSS 풀잎스쿨(https://www.notion.so/modulabs/Weakly-Supervised-Semantic-Segmentation-bc0e542ceda6472681d8583608ba2d2a)
+
+`2022.03-`
+__Study Group member__(가짜연구소 Groovy Graph 멤버), 가짜연구소 Groovy Graph(https://www.notion.so/chanrankim/Groovy-Graph-1a98bd335501499e894efd5a79efe479)
 
 
 <!-- ### Footer
