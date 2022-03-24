@@ -39,7 +39,7 @@ __동국대학교 수학과 학사과정__
 
 
 ## Projects
-`2021.11- `
+`2021.11-2021.12`
 __\[AIFFEL x SOCAR Hackerthon\] 수요지리분석__
 * Role: 팀장, ML Modeling(Scikit-learn)
 * 전반적인 프로젝트의 방향성을 위해 일정관리, 의견조율등을 맡아서 진행하고 있습니다.
