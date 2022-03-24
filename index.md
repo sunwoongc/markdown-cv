@@ -98,16 +98,16 @@ __Graduate Thesis: ReLU DNN 으로의 선형 FEM 그리고 ResNet의 안정성 �
 __Teaching Assistant__(교육조교), Dongguk University
 
 `2021.08-2021.11`
-__Study Group member__(자연어처리 스터디 집현전 Beginner단계 멤버), 집현전 2기(https://github.com/jiphyeonjeon/season2)
+__Study Group member__(자연어처리 스터디 집현전 Beginner단계 멤버), [집현전 2기](https://github.com/jiphyeonjeon/season2)
 
 `2022.01-2022.03`
-__Study Group member__(GNN+RecSys 풀잎스쿨 멤버), GNN+RecSys 풀잎스쿨(https://www.notion.so/modulabs/GNN-based-Recommender-Systems-e828fd8c294543c894f587a39567a260)
+__Study Group member__(GNN+RecSys 풀잎스쿨 멤버), [GNN+RecSys 풀잎스쿨](https://www.notion.so/modulabs/GNN-based-Recommender-Systems-e828fd8c294543c894f587a39567a260)
 
 `2022.01-`
-__Study Group member__(WSSS 풀잎스쿨 멤버), WSSS 풀잎스쿨(https://www.notion.so/modulabs/Weakly-Supervised-Semantic-Segmentation-bc0e542ceda6472681d8583608ba2d2a)
+__Study Group member__(WSSS 풀잎스쿨 멤버), [WSSS 풀잎스쿨](https://www.notion.so/modulabs/Weakly-Supervised-Semantic-Segmentation-bc0e542ceda6472681d8583608ba2d2a)
 
 `2022.03-`
-__Study Group member__(가짜연구소 Groovy Graph 멤버), 가짜연구소 Groovy Graph(https://www.notion.so/chanrankim/Groovy-Graph-1a98bd335501499e894efd5a79efe479)
+__Study Group member__(가짜연구소 Groovy Graph 멤버), [가짜연구소 Groovy Graph](https://www.notion.so/chanrankim/Groovy-Graph-1a98bd335501499e894efd5a79efe479)
 
 
 <!-- ### Footer
