@@ -87,6 +87,8 @@ __Graduate Thesis: ReLU DNN 으로의 선형 FEM 그리고 ResNet의 안정성 �
 
 `19.02-20.12`
 __Teaching Assistant__(교육조교), Dongguk University
+`21.05-`
+__Machine Learning Engineer__, Cipherome
 
 ## Extracurricular Activity
 
