@@ -13,7 +13,7 @@ title: CV - SunwoongChoi
 
 ## Currently
 
-Studying at AIFFEL AI School (Gangnam)
+Working as a Machine Learning Enginner at Cipherome.
 
 ### Recently interested in
 [The Role of Mathematical Reasoning in General Artificial Intelligence]()
