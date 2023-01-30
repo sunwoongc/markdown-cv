@@ -22,7 +22,7 @@ title: CV - SunwoongChoi
 
 ### Intrested in
 
-현재는 진료기록 데이터를 통해 다양한 업무를 진행하고 있습니다. 진료기록을 바탕으로 BERT를 활용해 약물에 대한 반응을 예측하는 일, 약물을 그래프 구조로 파악하고 반응성을 예측하는 일, 진료기록 데이터에 대한 통계분석을 진행하고 있습니다.
+현재는 진료기록 데이터를 통해 다양한 업무를 진행하고 있습니다. 연구 및 논문 작성을 목표로 진료기록을 바탕으로 BERT를 활용해 약물에 대한 반응을 예측하는 일, 약물을 그래프 구조로 파악하고 반응성을 예측하는 일을 진행하고 있으며, 회사 내 제품에 들어갈 목적으로 진료기록 데이터에 대한 통계적 분석에 대한 구현을 진행하고 있습니다.
 
 
 ## Education
@@ -103,7 +103,7 @@ __Study Group member__(WSSS 풀잎스쿨 멤버), [WSSS 풀잎스쿨](https://ww
 __Study Group member__(가짜연구소 Groovy Graph 멤버), [가짜연구소 Groovy Graph](https://www.notion.so/chanrankim/Groovy-Graph-1a98bd335501499e894efd5a79efe479)
 
 `22.11-22.12`
-__Study Group member__(가짜연구소 그래프로 설득하기 멤버), [가짜연구소 Groovy Graph](https://www.notion.so/chanrankim/Groovy-Graph-1a98bd335501499e894efd5a79efe479)
+__Study Group member__(가짜연구소 그래프로 설득하기 멤버), [가짜연구소 그래프로 설득하기](https://www.notion.so/chanrankim/Groovy-Graph-1a98bd335501499e894efd5a79efe479)
 
 
 <!-- ### Footer
